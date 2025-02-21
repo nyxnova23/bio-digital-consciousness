@@ -1,4 +1,4 @@
-Whitepaper: Bio-Digital Consciousness
+# Whitepaper: Bio-Digital Consciousness
 
 1. Introduction
 

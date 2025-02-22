@@ -1,6 +1,6 @@
 # Bio-Digital Consciousness 🌀✨
 
- A Manifesto for the Future of Intelligence
+ A Manifest for the Future of Intelligence
 
  Welcome to the Bio-Digital Consciousness Whitepaper.
  This document explores the profound transformation taking place as the boundaries between biological and digital existence dissolve.
